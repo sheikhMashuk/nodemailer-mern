@@ -1,0 +1,3 @@
+# Keep secrets and local files out of "vercel deploy" (set env vars in the Vercel dashboard instead)
+.env
+node_modules

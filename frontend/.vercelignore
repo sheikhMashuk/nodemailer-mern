@@ -1,0 +1,4 @@
+# Keep local files out of "vercel deploy"
+.env
+node_modules
+dist
